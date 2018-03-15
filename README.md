@@ -1,8 +1,8 @@
 # Campaign Contract
 
-<img src="./images/landing_page.PNG" width="700"/>
+<img src="./images/landing_page.PNG" width="900"/>
 
-<img src="./images/create_new_campaign_page.PNG" width="700"/>
+<img src="./images/create_new_campaign_page.PNG" width="900"/>
 
 This project allows people to construct and participate in a crowd funding campaign. The novel mechanism this contract allows is a voting system on spending proposals made by the campaign creator. Introducing this ability solves a major problem of transparency and fraud vulnerability common to crowd funding efforts.
 </br>
