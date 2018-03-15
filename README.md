@@ -1,17 +1,19 @@
 # Campaign Contract
 
-<img src="./images/landing_page.PNG" width="350"/>
+<img src="./images/landing_page.PNG" width="700"/>
 
-<img src="./images/create_new_campaign_page.PNG" width="350"/>
+<img src="./images/create_new_campaign_page.PNG" width="700"/>
 
 This project allows people to construct and participate in a crowd funding campaign. The novel mechanism this contract allows is a voting system on spending proposals made by the campaign creator. Introducing this ability solves a major problem of transparency and fraud vulnerability common to crowd funding efforts.
+</br>
 
 
-Two Contracts are used to accomplish this goal:
+Two Contracts are used to accomplish this goal:</br>
 
-* The Campaign Factory Contract
-  Used to make and keep track of all campaigns
-
+* The Campaign Factory Contract</br>
+  Used to make and keep track of all campaigns</br>
+  </br>
+  
 * The Campaign Contract
   * Request Struct</br>
     This is a request by the author of the campaign for approval to spend funds</br>
